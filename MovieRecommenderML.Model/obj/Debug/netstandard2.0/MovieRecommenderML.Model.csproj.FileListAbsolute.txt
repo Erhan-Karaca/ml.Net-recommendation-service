@@ -1,0 +1,10 @@
+C:\xampp\htdocs\myserver\MovieRecommender\MovieRecommenderML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\xampp\htdocs\myserver\MovieRecommender\MovieRecommenderML.Model\bin\Debug\netstandard2.0\MovieRecommenderML.Model.deps.json
+C:\xampp\htdocs\myserver\MovieRecommender\MovieRecommenderML.Model\bin\Debug\netstandard2.0\MovieRecommenderML.Model.dll
+C:\xampp\htdocs\myserver\MovieRecommender\MovieRecommenderML.Model\bin\Debug\netstandard2.0\MovieRecommenderML.Model.pdb
+C:\xampp\htdocs\myserver\MovieRecommender\MovieRecommenderML.Model\obj\Debug\netstandard2.0\MovieRecommenderML.Model.csprojAssemblyReference.cache
+C:\xampp\htdocs\myserver\MovieRecommender\MovieRecommenderML.Model\obj\Debug\netstandard2.0\MovieRecommenderML.Model.AssemblyInfoInputs.cache
+C:\xampp\htdocs\myserver\MovieRecommender\MovieRecommenderML.Model\obj\Debug\netstandard2.0\MovieRecommenderML.Model.AssemblyInfo.cs
+C:\xampp\htdocs\myserver\MovieRecommender\MovieRecommenderML.Model\obj\Debug\netstandard2.0\MovieRecommenderML.Model.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\myserver\MovieRecommender\MovieRecommenderML.Model\obj\Debug\netstandard2.0\MovieRecommenderML.Model.dll
+C:\xampp\htdocs\myserver\MovieRecommender\MovieRecommenderML.Model\obj\Debug\netstandard2.0\MovieRecommenderML.Model.pdb

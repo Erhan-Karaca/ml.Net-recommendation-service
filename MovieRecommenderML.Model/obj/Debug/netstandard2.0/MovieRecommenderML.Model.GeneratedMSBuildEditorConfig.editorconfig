@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MovieRecommenderML.Model
+build_property.ProjectDir = /Users/erhankaraca/Sites/local/ml.net/MovieRecommender/MovieRecommenderML.Model/
